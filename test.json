@@ -1,32 +1,31 @@
 {
-  "theme": {
-    "name": "Vendetta Pink",
-    "colors": {
-      "background": "#1a1a1a", 
-      "primary": "#ff69b4", 
-      "secondary": "#ff85c1", 
-      "text": "#ffffff", 
-      "accent": "#ffb3d9", 
-      "muted": "#555555", 
-      "border": "#ff69b4", 
-      "highlight": "#ff85c1"
-    },
-    "fonts": {
-      "primary": "Roboto, sans-serif",
-      "secondary": "Arial, sans-serif"
-    },
-    "spacing": {
-      "small": "8px",
-      "medium": "16px",
-      "large": "24px"
-    },
-    "shadows": {
-      "light": "0px 2px 4px rgba(255, 105, 180, 0.3)",
-      "dark": "0px 4px 8px rgba(255, 105, 180, 0.5)"
-    },
-    "borders": {
-      "radius": "4px",
-      "width": "1px"
-    }
+  "name": "Vendetta Pink",
+  "colors": {
+    "background": "#ffffff", 
+    "backgroundSecondary": "#ff69b4",
+    "backgroundTertiary": "#ff85c1",
+    "textNormal": "#000000",
+    "textMuted": "#555555",
+    "accent": "#ff69b4",
+    "link": "#ff85c1",
+    "header": "#ff69b4",
+    "border": "#ff69b4"
+  },
+  "fonts": {
+    "primary": "Arial, sans-serif",
+    "secondary": "Roboto, sans-serif"
+  },
+  "spacing": {
+    "small": "8px",
+    "medium": "16px",
+    "large": "24px"
+  },
+  "shadows": {
+    "light": "0px 2px 4px rgba(255, 105, 180, 0.3)",
+    "dark": "0px 4px 8px rgba(255, 105, 180, 0.5)"
+  },
+  "borders": {
+    "radius": "4px",
+    "width": "1px"
   }
 }
